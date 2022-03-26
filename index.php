@@ -6,5 +6,7 @@
  * Time: 14:45
  */
 
-phpinfo();
+//phpinfo();
 
+echo 'test';
+echo 'first push';
